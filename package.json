@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vue-flow/core": "^1.45.0",
+    "@vue-flow/minimap": "^1.5.3"
+  }
+}
